@@ -16,7 +16,7 @@ namespace ADONET_ORM_FORMUI
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FormCategories());
+            Application.Run(new FormKitaplar());
         }
     }
 }
